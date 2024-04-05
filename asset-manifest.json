@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ExpenseEase/static/css/main.91c10267.css",
+    "main.js": "/ExpenseEase/static/js/main.7a3c11d7.js",
+    "static/media/logo-EE.png": "/ExpenseEase/static/media/logo-EE.ae20439b5b86e52f0031.png",
+    "static/media/transactions.svg": "/ExpenseEase/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/ExpenseEase/index.html",
+    "static/media/user.svg": "/ExpenseEase/static/media/user.0d3cde29811636d534d72a2ea4f24dad.svg",
+    "static/media/search.svg": "/ExpenseEase/static/media/search.4da02613dcc315ee7fdf5edc7d9d5653.svg",
+    "main.91c10267.css.map": "/ExpenseEase/static/css/main.91c10267.css.map",
+    "main.7a3c11d7.js.map": "/ExpenseEase/static/js/main.7a3c11d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c10267.css",
+    "static/js/main.7a3c11d7.js"
+  ]
+}
